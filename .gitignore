@@ -1,0 +1,11 @@
+.owncloudsync.log
+._sync*
+
+cache/
+physical_printer/
+snapshots/
+vendor/
+
+backup.csv
+PrusaSlicer.ini
+PrusaSlicerGcodeViewer.ini
