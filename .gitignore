@@ -1,6 +1,8 @@
 .owncloudsync.log
 ._sync*
 
+*.swp
+
 cache/
 physical_printer/
 snapshots/
