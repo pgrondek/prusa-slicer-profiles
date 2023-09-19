@@ -11,3 +11,5 @@ vendor/
 backup.csv
 PrusaSlicer.ini
 PrusaSlicerGcodeViewer.ini
+
+.idea/
